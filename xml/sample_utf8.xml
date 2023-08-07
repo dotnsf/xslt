@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./style_utf8.xsl"?>
+<root>
+  <item name="lastname">木村</item>
+  <item name="firstname">桂</item>
+  <item name="gendar">男</item>
+  <item name="height">170</item>
+</root>
